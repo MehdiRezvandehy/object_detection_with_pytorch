@@ -1,1 +1,3 @@
+# Object Detection with Python
+
 PyTorch is an open-source deep learning library developed by Facebook’s AI Research lab, widely used for creating and training neural networks. This notebook provides a brief overview of its applications. It begins with image classification using a Convolutional Neural Network (CNN), followed by fine-tuning a pretrained ResNet-18 model for the same task. Next, it introduces object detection using R-CNN and Fast R-CNN, demonstrating their implementation in PyTorch. Finally, it covers evaluation techniques such as Intersection over Union (IoU) and Non-Maximum Suppression (NMS), including their implementation.
